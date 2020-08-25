@@ -34,7 +34,15 @@
             // Passo 4 - Listagem dos dados
             while($registro = mysqli_fetch_assoc($categorias)){
         ?>
+                <?php 
+                    // ver dados da cnsulta sql
+                    //print_r($registro); 
+                    //echo "<br>";
+                ?>
+            
                 <li><?php echo $registro["nomeproduto"] ?></li>
+                
+                
         <?php    
             }
         ?>
