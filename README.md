@@ -2,7 +2,7 @@
 Exercícios mostrando como utilizar o php com mysql
 
 ## Unidade 03 - API's conexão
-Nesse exercício é feita a conexão ao banco de dados SQL pela página php
+Nesse exercício é feita a conexão ao banco de dados SQL pela página php.
 Tambem é feita consulta na tabela para fazer a listagem de dados.
 
 ## Unidade 04 - Listagem de produtos
