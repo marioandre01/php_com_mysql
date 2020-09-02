@@ -15,3 +15,5 @@ Nesse exercício é continuado o exercício da unidade 04, onde é feito a pági
 Nesse exercício é feito um campo de pesquisa, para pesquisar os produtos desejados da lista de produtos.
 
 ## Unidade 07 - Criar um sistema de login
+Nesse exercício é feito uma tela de login que permite o acesso a página de listagem de produtos, usando dados de login e senha do banco de dados. Tambem é usado a variavel de sessão para garantir que as páginas internas não sejam acessadas sem que se esteja logado.
+
